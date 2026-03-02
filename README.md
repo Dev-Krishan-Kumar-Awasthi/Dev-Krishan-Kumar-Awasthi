@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishan Kumar Awasthi</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="center"alt="coding" width="1000000000" src="krishan.png">
-
+<img align="right"alt="coding" size="circle" width="1000000000" src="krishan1.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-krishan-kumar-awasthi&label=Profile%20views&color=0e75b6&style=flat" alt="dev-krishan-kumar-awasthi" /> </p>
 
 - 🔭 I’m currently working on [Annapurna Daily Needs Grocery Delivery App](coming soon)
